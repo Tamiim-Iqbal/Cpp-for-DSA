@@ -8,3 +8,5 @@
 3. Mid exam - https://www.hackerrank.com/contests/mid-term-a-introduction-to-c-for-dsa-a-batch-04/challenges
 
 <h6> Week 2 : More about Class & String </h6>
+
+4. Week 2 PD1 - https://docs.google.com/document/d/1q5-pz-rZ5xOrXzHB9AtRaqTvlvuB3tBL/edit
