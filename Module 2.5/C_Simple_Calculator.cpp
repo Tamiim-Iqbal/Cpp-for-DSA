@@ -2,11 +2,11 @@
 using namespace std;
 int main()
 {
-    int a,b;
+    long long int a,b;
     cin>>a>>b;
-    int p=a+b;
-    int m=a*b;
-    int s=a-b;
+    long long int p=a+b;
+    long long int m=a*b;
+    long long int s=a-b;
     cout<<a<<" + "<<b<<" = "<<p<<endl;
     cout<<a<<" * "<<b<<" = "<<m<<endl;
     cout<<a<<" - "<<b<<" = "<<s<<endl;
