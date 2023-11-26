@@ -4,7 +4,8 @@ int main()
 {
     string s;
     getline(cin,s);
-    stringstream ss(s);        //ss << s
+    stringstream ss(s);      
+    //ss << s
     string word;
     int count=0;
     while (ss >> word)
